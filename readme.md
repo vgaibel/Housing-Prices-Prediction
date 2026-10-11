@@ -1,4 +1,4 @@
-Housing Prices Competition for Kaggle Learn Users
+**Housing Prices Competition for Kaggle Learn Users**
 
 Предиктивная аналитика стоимости недвижимости.
 
